@@ -44,8 +44,21 @@ This project is developed for the Software Construction and Development (SCD) co
 
 ## Screenshots
 
-Screenshots will be added during development.
+1. Log-In
+![login](screenshots/login.png)
+2. Log-In Sucess
+![loginsucess](screenshots/loginsucess.png)
+3. Dashboard
+![Dashboard](screenshots/Dashboard.png)
+4. Add Loan
+![Addloan](screenshots/Addloan.png)
+5. View Loan 
+![Viewloan](screenshots/Viewloan.png)
+6. Remove Loan 
+![Removeloan](screenshots/RemoveLoan.png)
+7. Log-out
+![logout](screenshots/logout.png)
 
 ## Author
-
 Sameer Ali
+
