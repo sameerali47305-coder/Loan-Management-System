@@ -55,7 +55,7 @@ This project is developed for the Software Construction and Development (SCD) co
 5. View Loan 
 ![Viewloan](screenshots/Viewloan.png)
 6. Remove Loan 
-![Removeloan](screenshots/RemoveLoan.png)
+![Removeloan](screenshots/Removeloan.png)
 7. Log-out
 ![logout](screenshots/logout.png)
 
